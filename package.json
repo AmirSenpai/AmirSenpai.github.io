@@ -2,9 +2,9 @@
   "name": "amirsenpai.github.io",
   "version": "1.0.0",
   "description": "perosnal single page about me",
-  "main": "home.html",
+  "main": "index.html",
   "scripts": {
-    "test": "start home.html"
+    "test": "start index.html"
   },
   "keywords": [
     "website"
